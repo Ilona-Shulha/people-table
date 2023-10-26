@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/people-table/static/css/main.72810875.css",
+    "main.js": "/people-table/static/js/main.febfd47c.js",
+    "index.html": "/people-table/index.html",
+    "main.72810875.css.map": "/people-table/static/css/main.72810875.css.map",
+    "main.febfd47c.js.map": "/people-table/static/js/main.febfd47c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72810875.css",
+    "static/js/main.febfd47c.js"
+  ]
+}
